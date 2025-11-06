@@ -1,7 +1,7 @@
 # Adam Doyle — Game Developer & Creative Software Engineer  
 
 [![GitHub followers](https://img.shields.io/github/followers/adam-doyle?label=Followers&style=social)](https://github.com/AdamDoyle2056)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/adamdoyle56/)
 [![itch.io](https://img.shields.io/badge/itch.io-Games-red?logo=itch.io)](https://your-itch-page.itch.io)
 
 ---

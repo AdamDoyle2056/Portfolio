@@ -39,7 +39,6 @@ I’m open to opportunities in game development, tools engineering, or creative 
 
 ## Portfolio Showcase  
 
-*(Replace these with screenshots or GIFs of your projects. GitHub supports embedded images.)*  
 
 | Project Preview | |
 |:----------------:|:----------------:|

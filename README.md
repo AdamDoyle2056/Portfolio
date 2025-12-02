@@ -49,8 +49,6 @@ I’m open to opportunities in game development, tools engineering, or creative 
 ## Contact  
 
 - LinkedIn: [linkedin.com/in/your-link](https://www.linkedin.com/in/adamdoyle56/)
-- Resume: [your-website.com/resume.pdf](https://your-website.com/resume.pdf)  
 - Email: adamdoyle205623@gmail.com
-- itch.io: [your-itch-page.itch.io](http://adamdoyle205623.itch.io/)
 
 ---

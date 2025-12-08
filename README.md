@@ -48,7 +48,7 @@ I’m open to opportunities in game development, tools engineering, or creative 
 
 ## Contact  
 
-- LinkedIn: (https://www.linkedin.com/in/adamdoyle56/)
+- LinkedIn: https://www.linkedin.com/in/adamdoyle56/
 - Email: adamdoyle205623@gmail.com
 
 ---

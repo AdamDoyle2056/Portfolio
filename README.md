@@ -42,7 +42,7 @@ I’m open to opportunities in game development, tools engineering, or creative 
 
 | Projects | Repo Link|
 |:----------------:|:----------------:|
-| 2D Kinematic CharacterController | ![Terrain Tool](images/terrain_tool.gif) |
+| 2D Kinematic CharacterController | https://github.com/AdamDoyle2056/2D_Character_Controller.git |
 
 ---
 

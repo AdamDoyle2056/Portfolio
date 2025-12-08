@@ -40,9 +40,9 @@ I’m open to opportunities in game development, tools engineering, or creative 
 ## Portfolio Showcase  
 
 
-| Project Preview | |
+| Projects | Repo Link|
 |:----------------:|:----------------:|
-| ![Capstone](images/capstone.gif) | ![Terrain Tool](images/terrain_tool.gif) |
+| 2D Kinematic CharacterController | ![Terrain Tool](images/terrain_tool.gif) |
 
 ---
 

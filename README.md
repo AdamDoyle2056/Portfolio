@@ -8,7 +8,7 @@
 
 ## About Me  
 
-I’m a final-year Computer Science student passionate about creative software engineering and real world, useful computer vision projects.  
+I’m a final-year Computer Science student, majoring in Data science and Artificial Intelligence passionate about creative software engineering and real world, useful computer vision projects.  
 My focus is on contributing data-driven AI solutions to companies and clients using computer vision techniques, as well as immersing players in mechanically fun and challenging environments
 
 I’m currently:  
@@ -20,19 +20,11 @@ I’m open to opportunities in game development, software engineering, and AI/Co
 
 ---
 
-## Projects  
-
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| Capstone Game (In Progress) |  |  | [Repo] |
-| 2D Character Controller | A basic 2D Character Controller to build upon for platformer games in Unity |  Unity / C# | [https://github.com/AdamDoyle2056/2D_Character_Controller] |
-
----
-
 ## Skills & Tools  
 
 **Game Development:** Unity, C#, Cinemachine, Shader Graph, Editor Tools  
 **Software Engineering:** Git, GitHub Projects, .NET, Python (automation/scripts)  
+**AI and Computer Vision** Python, OpenCV, YOLO, Deep Learning
 **Design & Architecture:** Game architecture, UI/UX feedback systems, performance optimization  
 **Workflows:** Agile development, Markdown documentation, version control best practices  
 
